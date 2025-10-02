@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <h1>Hello world!</h1>
+        <h2>This is my class exercise.</h2>
+        <p>On this webpage, I am including headings, paragraphs, images, and a table.</p>
+        <p>Thank you for visiting my webpage.</p>
+        <a href="https://www.pratt.edu">Link to Pratt's website.</a>
+        <ul>
+        <li>This is an unordered list item.</li>
+        <li>This is another undordered list item.</li>
+        <li>This is a third unordered list item.</li>
+        </ul>
+        <ol>
+        <li>This list is numbered.</li>
+        <li>Here is the second item in my numbered list.</li>
+        </ol>
+        <img src="" alt="Breithorn"/>
+    </body>
+</html>
