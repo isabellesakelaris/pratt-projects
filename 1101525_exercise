@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style>
+          .greenparagraph {
+            font-color:green;
+            }
+          #footer {
+            font-color:black;
+            }
+        </style>
+    </head>
+    <body>
+        <p style="font-color:blue;text-decoration:underline;">Hello, in blue and underlined.</p>
+        <p class="greenparagraph">Hello, in green.</p>
+        <p id="footer">Hello, in black.</p>
+    </body>
+</html>
