@@ -10,14 +10,14 @@
     </head>
     <body>
         <p class="shining">
-<script>
-let work = "All work and no play makes Jack a dull boy";
-function myFunction = {
-for (let i = 0; i <=50; i++) {
-return work
-}
-}
-</script>
-</p>
-</body>
+            <script>
+            let work = "All work and no play makes Jack a dull boy";
+            function myFunction = {
+                for (let i = 0; i <=50; i++) {
+                return work
+                }
+            }
+            </script>
+        </p>
+    </body>
 </html>
